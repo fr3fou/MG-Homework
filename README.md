@@ -1,2 +1,2 @@
 # MG-School-Homework
-This is my repository for homework.
+This is my repository for school homework.
