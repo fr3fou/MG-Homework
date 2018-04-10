@@ -1,0 +1,8 @@
+C:\Users\Students\AppData\Local\Temporary Projects\sumOfAToB\bin\Release\sumOfAToB.exe
+C:\Users\Students\AppData\Local\Temporary Projects\sumOfAToB\bin\Release\sumOfAToB.pdb
+C:\Users\Students\AppData\Local\Temporary Projects\sumOfAToB\obj\x86\Release\sumOfAToB.exe
+C:\Users\Students\AppData\Local\Temporary Projects\sumOfAToB\obj\x86\Release\sumOfAToB.pdb
+D:\9V\Simo\sumOfAToB\sumOfAToB\sumOfAToB\obj\x86\Release\sumOfAToB.exe
+D:\9V\Simo\sumOfAToB\sumOfAToB\sumOfAToB\obj\x86\Release\sumOfAToB.pdb
+D:\9V\Simo\sumOfAToB\sumOfAToB\sumOfAToB\bin\Release\sumOfAToB.exe
+D:\9V\Simo\sumOfAToB\sumOfAToB\sumOfAToB\bin\Release\sumOfAToB.pdb

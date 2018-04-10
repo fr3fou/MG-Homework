@@ -1,0 +1,10 @@
+D:\9V\Simo\linearEquation\linearEquation\linearEquation\bin\Release\linearEquation.exe
+D:\9V\Simo\linearEquation\linearEquation\linearEquation\bin\Release\linearEquation.pdb
+D:\9V\Simo\linearEquation\linearEquation\linearEquation\obj\x86\Release\linearEquation.exe
+D:\9V\Simo\linearEquation\linearEquation\linearEquation\obj\x86\Release\linearEquation.pdb
+\\T25\Shared_2017_2018\Informatika\9v\UCHENICI\23\Simo\linearEquation\linearEquation\linearEquation\obj\x86\Release\linearEquation.exe
+\\T25\Shared_2017_2018\Informatika\9v\UCHENICI\23\Simo\linearEquation\linearEquation\linearEquation\obj\x86\Release\linearEquation.pdb
+D:\Simeonova\Shared_2017_2018\Informatika\9v\UCHENICI\23\Simo\linearEquation\linearEquation\linearEquation\obj\x86\Release\linearEquation.exe
+D:\Simeonova\Shared_2017_2018\Informatika\9v\UCHENICI\23\Simo\linearEquation\linearEquation\linearEquation\obj\x86\Release\linearEquation.pdb
+D:\Simeonova\Shared_2017_2018\Informatika\9v\UCHENICI\23\Simo\linearEquation\linearEquation\linearEquation\bin\Release\linearEquation.exe
+D:\Simeonova\Shared_2017_2018\Informatika\9v\UCHENICI\23\Simo\linearEquation\linearEquation\linearEquation\bin\Release\linearEquation.pdb

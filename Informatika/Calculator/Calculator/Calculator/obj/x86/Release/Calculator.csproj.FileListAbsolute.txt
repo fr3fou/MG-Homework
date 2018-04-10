@@ -1,0 +1,8 @@
+\\T25\Shared_2017_2018\Informatika\9v\UCHENICI\23\Simo\Calculator\Calculator\Calculator\bin\Release\Calculator.exe
+\\T25\Shared_2017_2018\Informatika\9v\UCHENICI\23\Simo\Calculator\Calculator\Calculator\bin\Release\Calculator.pdb
+\\T25\Shared_2017_2018\Informatika\9v\UCHENICI\23\Simo\Calculator\Calculator\Calculator\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+\\T25\Shared_2017_2018\Informatika\9v\UCHENICI\23\Simo\Calculator\Calculator\Calculator\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+\\T25\Shared_2017_2018\Informatika\9v\UCHENICI\23\Simo\Calculator\Calculator\Calculator\obj\x86\Release\Calculator.csproj.GenerateResource.Cache
+\\T25\Shared_2017_2018\Informatika\9v\UCHENICI\23\Simo\Calculator\Calculator\Calculator\obj\x86\Release\Calculator.exe
+\\T25\Shared_2017_2018\Informatika\9v\UCHENICI\23\Simo\Calculator\Calculator\Calculator\obj\x86\Release\Calculator.pdb
+\\T25\Shared_2017_2018\Informatika\9v\UCHENICI\23\Simo\Calculator\Calculator\Calculator\obj\x86\Release\Calculator.csprojResolveAssemblyReference.cache

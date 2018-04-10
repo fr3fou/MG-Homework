@@ -1,0 +1,7 @@
+D:\9V\Simo\shapesAreaAndPerimeter\shapesAreaAndPerimeter\bin\Debug\shapesAreaAndPerimeter.exe
+D:\9V\Simo\shapesAreaAndPerimeter\shapesAreaAndPerimeter\bin\Debug\shapesAreaAndPerimeter.pdb
+D:\9V\Simo\shapesAreaAndPerimeter\shapesAreaAndPerimeter\obj\x86\Debug\shapesAreaAndPerimeter.Form1.resources
+D:\9V\Simo\shapesAreaAndPerimeter\shapesAreaAndPerimeter\obj\x86\Debug\shapesAreaAndPerimeter.Properties.Resources.resources
+D:\9V\Simo\shapesAreaAndPerimeter\shapesAreaAndPerimeter\obj\x86\Debug\shapesAreaAndPerimeter.csproj.GenerateResource.Cache
+D:\9V\Simo\shapesAreaAndPerimeter\shapesAreaAndPerimeter\obj\x86\Debug\shapesAreaAndPerimeter.exe
+D:\9V\Simo\shapesAreaAndPerimeter\shapesAreaAndPerimeter\obj\x86\Debug\shapesAreaAndPerimeter.pdb

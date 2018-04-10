@@ -1,0 +1,15 @@
+C:\Users\Students\AppData\Local\Temporary Projects\shapesAreaAndPerimeter\bin\Release\shapesAreaAndPerimeter.exe
+C:\Users\Students\AppData\Local\Temporary Projects\shapesAreaAndPerimeter\bin\Release\shapesAreaAndPerimeter.pdb
+C:\Users\Students\AppData\Local\Temporary Projects\shapesAreaAndPerimeter\obj\x86\Release\shapesAreaAndPerimeter.Form1.resources
+C:\Users\Students\AppData\Local\Temporary Projects\shapesAreaAndPerimeter\obj\x86\Release\shapesAreaAndPerimeter.Properties.Resources.resources
+C:\Users\Students\AppData\Local\Temporary Projects\shapesAreaAndPerimeter\obj\x86\Release\shapesAreaAndPerimeter.csproj.GenerateResource.Cache
+C:\Users\Students\AppData\Local\Temporary Projects\shapesAreaAndPerimeter\obj\x86\Release\shapesAreaAndPerimeter.exe
+C:\Users\Students\AppData\Local\Temporary Projects\shapesAreaAndPerimeter\obj\x86\Release\shapesAreaAndPerimeter.pdb
+D:\9V\Simo\shapesAreaAndPerimeter\shapesAreaAndPerimeter\obj\x86\Release\shapesAreaAndPerimeter.exe
+D:\9V\Simo\shapesAreaAndPerimeter\shapesAreaAndPerimeter\obj\x86\Release\shapesAreaAndPerimeter.pdb
+D:\9V\Simo\shapesAreaAndPerimeter\shapesAreaAndPerimeter\bin\Release\shapesAreaAndPerimeter.exe
+D:\9V\Simo\shapesAreaAndPerimeter\shapesAreaAndPerimeter\bin\Release\shapesAreaAndPerimeter.pdb
+D:\9V\Simo\shapesAreaAndPerimeter\shapesAreaAndPerimeter\obj\x86\Release\shapesAreaAndPerimeter.Form1.resources
+D:\9V\Simo\shapesAreaAndPerimeter\shapesAreaAndPerimeter\obj\x86\Release\shapesAreaAndPerimeter.Properties.Resources.resources
+D:\9V\Simo\shapesAreaAndPerimeter\shapesAreaAndPerimeter\obj\x86\Release\shapesAreaAndPerimeter.csproj.GenerateResource.Cache
+D:\9V\Simo\shapesAreaAndPerimeter\shapesAreaAndPerimeter\obj\x86\Release\shapesAreaAndPerimeter.csprojResolveAssemblyReference.cache
