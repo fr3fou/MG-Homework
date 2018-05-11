@@ -1,0 +1,4 @@
+D:\9V\Simo\Zadachi s cikli\Zadacha 5\Zadacha 5\bin\Debug\Zadacha 5.exe
+D:\9V\Simo\Zadachi s cikli\Zadacha 5\Zadacha 5\bin\Debug\Zadacha 5.pdb
+D:\9V\Simo\Zadachi s cikli\Zadacha 5\Zadacha 5\obj\x86\Debug\Zadacha 5.exe
+D:\9V\Simo\Zadachi s cikli\Zadacha 5\Zadacha 5\obj\x86\Debug\Zadacha 5.pdb
