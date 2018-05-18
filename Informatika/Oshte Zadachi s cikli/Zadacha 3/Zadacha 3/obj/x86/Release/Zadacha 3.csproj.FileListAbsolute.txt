@@ -1,0 +1,4 @@
+D:\9V\Simo\MG-Homework\Informatika\Oshte Zadachi s cikli\Zadacha 3\Zadacha 3\bin\Release\Zadacha 3.exe
+D:\9V\Simo\MG-Homework\Informatika\Oshte Zadachi s cikli\Zadacha 3\Zadacha 3\bin\Release\Zadacha 3.pdb
+D:\9V\Simo\MG-Homework\Informatika\Oshte Zadachi s cikli\Zadacha 3\Zadacha 3\obj\x86\Release\Zadacha 3.exe
+D:\9V\Simo\MG-Homework\Informatika\Oshte Zadachi s cikli\Zadacha 3\Zadacha 3\obj\x86\Release\Zadacha 3.pdb

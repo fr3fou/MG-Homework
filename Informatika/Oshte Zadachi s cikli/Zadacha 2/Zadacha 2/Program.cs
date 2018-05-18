@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Zadacha_5
+namespace Zadacha_2
 {
     class Program
     {
@@ -20,7 +20,7 @@ namespace Zadacha_5
                     negCounter++;
                 }
             }
-            Console.WriteLine(numbers.Where(x => x % 10 == 5).ToArray().Count()-1);
+            Console.WriteLine(numbers.Where(x => x % 10 == 5).ToArray().Min());
         }
     }
 }
