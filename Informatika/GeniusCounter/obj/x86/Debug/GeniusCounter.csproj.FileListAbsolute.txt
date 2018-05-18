@@ -1,0 +1,7 @@
+D:\9V\Simo\GeniusCounter\GeniusCounter\bin\Debug\GeniusCounter.exe
+D:\9V\Simo\GeniusCounter\GeniusCounter\bin\Debug\GeniusCounter.pdb
+D:\9V\Simo\GeniusCounter\GeniusCounter\obj\x86\Debug\GeniusCounter.Form1.resources
+D:\9V\Simo\GeniusCounter\GeniusCounter\obj\x86\Debug\GeniusCounter.Properties.Resources.resources
+D:\9V\Simo\GeniusCounter\GeniusCounter\obj\x86\Debug\GeniusCounter.csproj.GenerateResource.Cache
+D:\9V\Simo\GeniusCounter\GeniusCounter\obj\x86\Debug\GeniusCounter.exe
+D:\9V\Simo\GeniusCounter\GeniusCounter\obj\x86\Debug\GeniusCounter.pdb
