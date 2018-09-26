@@ -1,0 +1,11 @@
+/home/simo/Documents/Projects/MG-Homework/Informatics/sumOfPositiveCountOfNeg/bin/Debug/netcoreapp2.1/sumOfPositiveCountOfNeg.deps.json
+/home/simo/Documents/Projects/MG-Homework/Informatics/sumOfPositiveCountOfNeg/bin/Debug/netcoreapp2.1/sumOfPositiveCountOfNeg.runtimeconfig.json
+/home/simo/Documents/Projects/MG-Homework/Informatics/sumOfPositiveCountOfNeg/bin/Debug/netcoreapp2.1/sumOfPositiveCountOfNeg.runtimeconfig.dev.json
+/home/simo/Documents/Projects/MG-Homework/Informatics/sumOfPositiveCountOfNeg/bin/Debug/netcoreapp2.1/sumOfPositiveCountOfNeg.dll
+/home/simo/Documents/Projects/MG-Homework/Informatics/sumOfPositiveCountOfNeg/bin/Debug/netcoreapp2.1/sumOfPositiveCountOfNeg.pdb
+/home/simo/Documents/Projects/MG-Homework/Informatics/sumOfPositiveCountOfNeg/obj/Debug/netcoreapp2.1/sumOfPositiveCountOfNeg.csprojAssemblyReference.cache
+/home/simo/Documents/Projects/MG-Homework/Informatics/sumOfPositiveCountOfNeg/obj/Debug/netcoreapp2.1/sumOfPositiveCountOfNeg.csproj.CoreCompileInputs.cache
+/home/simo/Documents/Projects/MG-Homework/Informatics/sumOfPositiveCountOfNeg/obj/Debug/netcoreapp2.1/sumOfPositiveCountOfNeg.AssemblyInfoInputs.cache
+/home/simo/Documents/Projects/MG-Homework/Informatics/sumOfPositiveCountOfNeg/obj/Debug/netcoreapp2.1/sumOfPositiveCountOfNeg.AssemblyInfo.cs
+/home/simo/Documents/Projects/MG-Homework/Informatics/sumOfPositiveCountOfNeg/obj/Debug/netcoreapp2.1/sumOfPositiveCountOfNeg.dll
+/home/simo/Documents/Projects/MG-Homework/Informatics/sumOfPositiveCountOfNeg/obj/Debug/netcoreapp2.1/sumOfPositiveCountOfNeg.pdb
