@@ -10,6 +10,8 @@ namespace Arrays
             int n = int.Parse(Console.ReadLine());
             int evenIndex = 0;
             int evenValue = 0;
+            int negIndex = 0;
+            int negValue = 0;
             bool hasFoundNeg = false;
             for (int i = 0; i < n; i++)
             {
@@ -19,14 +21,17 @@ namespace Arrays
                     evenIndex = i;
                     evenValue = val;
                 }
+
                 if (val < 0 && !hasFoundNeg)
                 {
-                    Console.WriteLine("Index of neg: "+ i);
-                    Console.WriteLine("Value of neg: "+ val);
+                    negIndex = i;
+                    negValue = val;
                     hasFoundNeg = true;
                 }
             }
 
+            Console.WriteLine("Index of neg: " + negIndex);
+            Console.WriteLine("Value of neg: " + negValue);
             Console.WriteLine("Index of even: " + evenIndex);
             Console.WriteLine("Value of even: " + evenValue);
         }

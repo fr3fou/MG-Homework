@@ -1,0 +1,11 @@
+/home/simo/Documents/Projects/MG-Homework/Informatics/Arrays/bin/Debug/netcoreapp2.1/Arrays.deps.json
+/home/simo/Documents/Projects/MG-Homework/Informatics/Arrays/bin/Debug/netcoreapp2.1/Arrays.runtimeconfig.json
+/home/simo/Documents/Projects/MG-Homework/Informatics/Arrays/bin/Debug/netcoreapp2.1/Arrays.runtimeconfig.dev.json
+/home/simo/Documents/Projects/MG-Homework/Informatics/Arrays/bin/Debug/netcoreapp2.1/Arrays.dll
+/home/simo/Documents/Projects/MG-Homework/Informatics/Arrays/bin/Debug/netcoreapp2.1/Arrays.pdb
+/home/simo/Documents/Projects/MG-Homework/Informatics/Arrays/obj/Debug/netcoreapp2.1/Arrays.csprojAssemblyReference.cache
+/home/simo/Documents/Projects/MG-Homework/Informatics/Arrays/obj/Debug/netcoreapp2.1/Arrays.csproj.CoreCompileInputs.cache
+/home/simo/Documents/Projects/MG-Homework/Informatics/Arrays/obj/Debug/netcoreapp2.1/Arrays.AssemblyInfoInputs.cache
+/home/simo/Documents/Projects/MG-Homework/Informatics/Arrays/obj/Debug/netcoreapp2.1/Arrays.AssemblyInfo.cs
+/home/simo/Documents/Projects/MG-Homework/Informatics/Arrays/obj/Debug/netcoreapp2.1/Arrays.dll
+/home/simo/Documents/Projects/MG-Homework/Informatics/Arrays/obj/Debug/netcoreapp2.1/Arrays.pdb
