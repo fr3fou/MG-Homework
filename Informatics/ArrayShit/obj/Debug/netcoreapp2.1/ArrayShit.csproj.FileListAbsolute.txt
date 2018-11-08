@@ -1,0 +1,11 @@
+/home/simo/Documents/Projects/mg-homework/Informatics/ArrayShit/bin/Debug/netcoreapp2.1/ArrayShit.deps.json
+/home/simo/Documents/Projects/mg-homework/Informatics/ArrayShit/bin/Debug/netcoreapp2.1/ArrayShit.runtimeconfig.json
+/home/simo/Documents/Projects/mg-homework/Informatics/ArrayShit/bin/Debug/netcoreapp2.1/ArrayShit.runtimeconfig.dev.json
+/home/simo/Documents/Projects/mg-homework/Informatics/ArrayShit/bin/Debug/netcoreapp2.1/ArrayShit.dll
+/home/simo/Documents/Projects/mg-homework/Informatics/ArrayShit/bin/Debug/netcoreapp2.1/ArrayShit.pdb
+/home/simo/Documents/Projects/mg-homework/Informatics/ArrayShit/obj/Debug/netcoreapp2.1/ArrayShit.csprojAssemblyReference.cache
+/home/simo/Documents/Projects/mg-homework/Informatics/ArrayShit/obj/Debug/netcoreapp2.1/ArrayShit.csproj.CoreCompileInputs.cache
+/home/simo/Documents/Projects/mg-homework/Informatics/ArrayShit/obj/Debug/netcoreapp2.1/ArrayShit.AssemblyInfoInputs.cache
+/home/simo/Documents/Projects/mg-homework/Informatics/ArrayShit/obj/Debug/netcoreapp2.1/ArrayShit.AssemblyInfo.cs
+/home/simo/Documents/Projects/mg-homework/Informatics/ArrayShit/obj/Debug/netcoreapp2.1/ArrayShit.dll
+/home/simo/Documents/Projects/mg-homework/Informatics/ArrayShit/obj/Debug/netcoreapp2.1/ArrayShit.pdb
