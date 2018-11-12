@@ -1,0 +1,11 @@
+/home/simo/Documents/Projects/mg-homework/Informatics/Insertion/obj/Debug/netcoreapp2.1/Insertion.csprojAssemblyReference.cache
+/home/simo/Documents/Projects/mg-homework/Informatics/Insertion/obj/Debug/netcoreapp2.1/Insertion.csproj.CoreCompileInputs.cache
+/home/simo/Documents/Projects/mg-homework/Informatics/Insertion/obj/Debug/netcoreapp2.1/Insertion.AssemblyInfoInputs.cache
+/home/simo/Documents/Projects/mg-homework/Informatics/Insertion/obj/Debug/netcoreapp2.1/Insertion.AssemblyInfo.cs
+/home/simo/Documents/Projects/mg-homework/Informatics/Insertion/bin/Debug/netcoreapp2.1/Insertion.deps.json
+/home/simo/Documents/Projects/mg-homework/Informatics/Insertion/bin/Debug/netcoreapp2.1/Insertion.runtimeconfig.json
+/home/simo/Documents/Projects/mg-homework/Informatics/Insertion/bin/Debug/netcoreapp2.1/Insertion.runtimeconfig.dev.json
+/home/simo/Documents/Projects/mg-homework/Informatics/Insertion/bin/Debug/netcoreapp2.1/Insertion.dll
+/home/simo/Documents/Projects/mg-homework/Informatics/Insertion/bin/Debug/netcoreapp2.1/Insertion.pdb
+/home/simo/Documents/Projects/mg-homework/Informatics/Insertion/obj/Debug/netcoreapp2.1/Insertion.dll
+/home/simo/Documents/Projects/mg-homework/Informatics/Insertion/obj/Debug/netcoreapp2.1/Insertion.pdb

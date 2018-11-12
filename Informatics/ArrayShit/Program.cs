@@ -8,6 +8,7 @@ namespace ArrayShit
         {
            int n = int.Parse(Console.ReadLine());
            double[] uspeh = new double[n]; 
+
            // input
            for (int i = 0; i < n; i++)
            {
@@ -16,6 +17,8 @@ namespace ArrayShit
 
            // sort
            InsertionSort(uspeh);
+
+           // print
            Console.WriteLine("Top 3");
            Console.WriteLine(uspeh[n-1]);
            Console.WriteLine(uspeh[n-2]);
@@ -32,13 +35,13 @@ namespace ArrayShit
 
                while (j >= 0 && num < prevNum)
                {
-                  prevNum = arr[j];
+                    prevNum = arr[j];
                     if (num < prevNum)
                     {
                         arr[j + 1] = prevNum;
                         arr[j] = num;
                     }
-                  j--;
+                    j--;
                }
             }
         }
