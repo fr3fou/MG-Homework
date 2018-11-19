@@ -30,17 +30,12 @@ namespace ArrayShit
             for (int i = 1; i < arr.Length; i++)
             {
                double num = arr[i];
-               double prevNum = arr[i-1];
                int j = i - 1; 
 
-               while (j >= 0 && num < prevNum)
+               while (j >= 0 && num < arr[j])
                {
-                    prevNum = arr[j];
-                    if (num < prevNum)
-                    {
-                        arr[j + 1] = prevNum;
-                        arr[j] = num;
-                    }
+                    arr[j + 1] = arr[j];
+                    arr[j] = num;
                     j--;
                }
             }
