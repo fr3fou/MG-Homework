@@ -1,0 +1,11 @@
+/home/simo/Projects/mg-homework/Informatics/2D/obj/Debug/netcoreapp2.1/2D.csprojAssemblyReference.cache
+/home/simo/Projects/mg-homework/Informatics/2D/obj/Debug/netcoreapp2.1/2D.csproj.CoreCompileInputs.cache
+/home/simo/Projects/mg-homework/Informatics/2D/obj/Debug/netcoreapp2.1/2D.AssemblyInfoInputs.cache
+/home/simo/Projects/mg-homework/Informatics/2D/obj/Debug/netcoreapp2.1/2D.AssemblyInfo.cs
+/home/simo/Projects/mg-homework/Informatics/2D/bin/Debug/netcoreapp2.1/2D.deps.json
+/home/simo/Projects/mg-homework/Informatics/2D/bin/Debug/netcoreapp2.1/2D.runtimeconfig.json
+/home/simo/Projects/mg-homework/Informatics/2D/bin/Debug/netcoreapp2.1/2D.runtimeconfig.dev.json
+/home/simo/Projects/mg-homework/Informatics/2D/bin/Debug/netcoreapp2.1/2D.dll
+/home/simo/Projects/mg-homework/Informatics/2D/bin/Debug/netcoreapp2.1/2D.pdb
+/home/simo/Projects/mg-homework/Informatics/2D/obj/Debug/netcoreapp2.1/2D.dll
+/home/simo/Projects/mg-homework/Informatics/2D/obj/Debug/netcoreapp2.1/2D.pdb
