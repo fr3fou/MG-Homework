@@ -1,0 +1,11 @@
+/home/simo/Projects/mg-homework/Informatics/m1-20/obj/Debug/netcoreapp2.2/m1-20.csprojAssemblyReference.cache
+/home/simo/Projects/mg-homework/Informatics/m1-20/obj/Debug/netcoreapp2.2/m1-20.csproj.CoreCompileInputs.cache
+/home/simo/Projects/mg-homework/Informatics/m1-20/obj/Debug/netcoreapp2.2/m1-20.AssemblyInfoInputs.cache
+/home/simo/Projects/mg-homework/Informatics/m1-20/obj/Debug/netcoreapp2.2/m1-20.AssemblyInfo.cs
+/home/simo/Projects/mg-homework/Informatics/m1-20/bin/Debug/netcoreapp2.2/m1-20.deps.json
+/home/simo/Projects/mg-homework/Informatics/m1-20/bin/Debug/netcoreapp2.2/m1-20.runtimeconfig.json
+/home/simo/Projects/mg-homework/Informatics/m1-20/bin/Debug/netcoreapp2.2/m1-20.runtimeconfig.dev.json
+/home/simo/Projects/mg-homework/Informatics/m1-20/bin/Debug/netcoreapp2.2/m1-20.dll
+/home/simo/Projects/mg-homework/Informatics/m1-20/bin/Debug/netcoreapp2.2/m1-20.pdb
+/home/simo/Projects/mg-homework/Informatics/m1-20/obj/Debug/netcoreapp2.2/m1-20.dll
+/home/simo/Projects/mg-homework/Informatics/m1-20/obj/Debug/netcoreapp2.2/m1-20.pdb
