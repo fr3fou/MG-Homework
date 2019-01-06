@@ -41,7 +41,7 @@ namespace Spiral
             int bottom = m - 1;
 
             // repeat until total area
-            while(result.Length < n * m)
+            while(result.Length < (n * m * 2))
             {
                 // add all the values at the current "top"
                 for (int i = left; i <= right; i++)
