@@ -1,0 +1,11 @@
+/home/simo/Projects/mg-homework/Informatics/Vacation/Spiral/obj/Debug/netcoreapp2.2/Spiral.csprojAssemblyReference.cache
+/home/simo/Projects/mg-homework/Informatics/Vacation/Spiral/obj/Debug/netcoreapp2.2/Spiral.csproj.CoreCompileInputs.cache
+/home/simo/Projects/mg-homework/Informatics/Vacation/Spiral/obj/Debug/netcoreapp2.2/Spiral.AssemblyInfoInputs.cache
+/home/simo/Projects/mg-homework/Informatics/Vacation/Spiral/obj/Debug/netcoreapp2.2/Spiral.AssemblyInfo.cs
+/home/simo/Projects/mg-homework/Informatics/Vacation/Spiral/bin/Debug/netcoreapp2.2/Spiral.deps.json
+/home/simo/Projects/mg-homework/Informatics/Vacation/Spiral/bin/Debug/netcoreapp2.2/Spiral.runtimeconfig.json
+/home/simo/Projects/mg-homework/Informatics/Vacation/Spiral/bin/Debug/netcoreapp2.2/Spiral.runtimeconfig.dev.json
+/home/simo/Projects/mg-homework/Informatics/Vacation/Spiral/bin/Debug/netcoreapp2.2/Spiral.dll
+/home/simo/Projects/mg-homework/Informatics/Vacation/Spiral/bin/Debug/netcoreapp2.2/Spiral.pdb
+/home/simo/Projects/mg-homework/Informatics/Vacation/Spiral/obj/Debug/netcoreapp2.2/Spiral.dll
+/home/simo/Projects/mg-homework/Informatics/Vacation/Spiral/obj/Debug/netcoreapp2.2/Spiral.pdb
