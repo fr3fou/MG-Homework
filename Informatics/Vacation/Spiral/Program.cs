@@ -6,11 +6,11 @@ namespace Spiral
     {
         static void Main(string[] args)
         {
-            // Size of 2D array
+            // size of 2D array
             int n = int.Parse(Console.ReadLine());
             int m = int.Parse(Console.ReadLine());
 
-            // Declaration of 2D array
+            // declaration of 2D array
             int[,] spiral = new int[n, m];
 
             // fill in the spiral
