@@ -30,11 +30,22 @@ namespace Spiral
         {
             // keep result here
             string result = "";
+
+            // sum and min
             int sum = 0;
             int min = int.MaxValue;
 
-
             // starting positions
+            // given n = 5, m = 5
+            //                    v top is 0
+            //
+            //              1, 2, 3, 5, 9,
+            //              6, 9, 7, 1, 3,
+            // left is 0 >> 4, 5, 2, 5, 9, << right is 4
+            //              7, 8, 9, 3, 7,
+            //              3, 9, 5, 5, 3
+            //
+            //                    ^ bottom is 4
             int left = 0;
             int right = n - 1;
             int top = 0;
@@ -43,7 +54,14 @@ namespace Spiral
             // repeat until total area
             while(result.Length < (n * m * 2))
             {
-                // add all the values at the current "top"
+
+            // add all the values at the current "top"
+            // these >>     1, 2, 3, 5, 9, 
+            //              6, 9, 7, 1, 3,
+            //              4, 5, 2, 5, 9,
+            //              7, 8, 9, 3, 7,
+            //              3, 9, 5, 5, 3
+            //
                 for (int i = left; i <= right; i++)
                 {
                     int num = spiral[top, i];
@@ -56,9 +74,23 @@ namespace Spiral
                     result += num + " ";
                     sum += num;
                 }
+                
+                // move the top one index "down"
+                //            1, 2, 3, 5, 9, 
+                //  top >>    6, 9, 7, 1, 3,
+                //            4, 5, 2, 5, 9,
+                //            7, 8, 9, 3, 7,
+                //            3, 9, 5, 5, 3
                 top++;
 
                 // add all the values at the current "right"
+                //                          V these
+                //              1, 2, 3, 5, 9, 
+                //              6, 9, 7, 1, 3,
+                //              4, 5, 2, 5, 9,
+                //              7, 8, 9, 3, 7,
+                //              3, 9, 5, 5, 3
+                //
                 for (int i = top; i <= bottom; i++)
                 {
                     int num = spiral[i, right];
@@ -71,9 +103,23 @@ namespace Spiral
                     result += num + " ";
                     sum += num;
                 }
+
+                // move the right one index "left"
+                //                     V right
+                //            1, 2, 3, 5, 9, 
+                //            6, 9, 7, 1, 3,
+                //            4, 5, 2, 5, 9,
+                //            7, 8, 9, 3, 7,
+                //            3, 9, 5, 5, 3
                 right--;
 
                 // add all the values at the current "bottom"
+                //            1, 2, 3, 5, 9, 
+                //            6, 9, 7, 1, 3,
+                //            4, 5, 2, 5, 9,
+                //            7, 8, 9, 3, 7,
+                //  these >>  3, 9, 5, 5, 3
+                //
                 for (int i = right; i >= left; i--)
                 {
                     int num = spiral[bottom, i];
@@ -86,6 +132,13 @@ namespace Spiral
                     result += num + " ";
                     sum += num;
                 }
+
+                // move the bottom one index "up"
+                //            1, 2, 3, 5, 9, 
+                //            6, 9, 7, 1, 3,
+                //            4, 5, 2, 5, 9,
+                //  bottom >> 7, 8, 9, 3, 7,
+                //            3, 9, 5, 5, 3
                 bottom--;
 
                 // prevent repeating
@@ -95,6 +148,13 @@ namespace Spiral
                 }
 
                 // add all the values at the current "left"
+                //      these V 
+                //            1, 2, 3, 5, 9, 
+                //            6, 9, 7, 1, 3,
+                //            4, 5, 2, 5, 9,
+                //            7, 8, 9, 3, 7,
+                //            3, 9, 5, 5, 3
+                //
                 for (int i = bottom; i >= top; i--)
                 {
                     int num = spiral[i, left];
@@ -107,6 +167,13 @@ namespace Spiral
                     result += num + " ";
                     sum += num;
                 }
+                // move the left one index "right"
+                //          left V
+                //            1, 2, 3, 5, 9, 
+                //            6, 9, 7, 1, 3,
+                //            4, 5, 2, 5, 9,
+                //            7, 8, 9, 3, 7,
+                //            3, 9, 5, 5, 3
                 left++;
             }
 
