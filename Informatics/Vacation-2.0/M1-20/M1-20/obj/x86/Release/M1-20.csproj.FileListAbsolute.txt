@@ -1,0 +1,8 @@
+C:\Users\Simo\AppData\Local\Temporary Projects\M1-20\bin\Release\M1-20.exe
+C:\Users\Simo\AppData\Local\Temporary Projects\M1-20\bin\Release\M1-20.pdb
+C:\Users\Simo\AppData\Local\Temporary Projects\M1-20\obj\x86\Release\M1-20.exe
+C:\Users\Simo\AppData\Local\Temporary Projects\M1-20\obj\x86\Release\M1-20.pdb
+G:\Projects\mg-homework\Informatics\Vacation-2.0\M1-20\M1-20\obj\x86\Release\M1-20.exe
+G:\Projects\mg-homework\Informatics\Vacation-2.0\M1-20\M1-20\obj\x86\Release\M1-20.pdb
+G:\Projects\mg-homework\Informatics\Vacation-2.0\M1-20\M1-20\bin\Release\M1-20.exe
+G:\Projects\mg-homework\Informatics\Vacation-2.0\M1-20\M1-20\bin\Release\M1-20.pdb
