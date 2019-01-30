@@ -1,0 +1,6 @@
+C:\Users\Simo\AppData\Local\Temporary Projects\Spiral\bin\Release\Spiral.exe
+C:\Users\Simo\AppData\Local\Temporary Projects\Spiral\bin\Release\Spiral.pdb
+C:\Users\Simo\AppData\Local\Temporary Projects\Spiral\obj\x86\Release\Spiral.exe
+C:\Users\Simo\AppData\Local\Temporary Projects\Spiral\obj\x86\Release\Spiral.pdb
+G:\Projects\mg-homework\Informatics\Vacation-2.0\Spiral\Spiral\obj\x86\Release\Spiral.exe
+G:\Projects\mg-homework\Informatics\Vacation-2.0\Spiral\Spiral\obj\x86\Release\Spiral.pdb
