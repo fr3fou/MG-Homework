@@ -1,0 +1,13 @@
+/mnt/c/Users/simo3/Projects/det/obj/Debug/netcoreapp3.1/det.csprojAssemblyReference.cache
+/mnt/c/Users/simo3/Projects/det/obj/Debug/netcoreapp3.1/det.csproj.CoreCompileInputs.cache
+/mnt/c/Users/simo3/Projects/det/obj/Debug/netcoreapp3.1/det.AssemblyInfoInputs.cache
+/mnt/c/Users/simo3/Projects/det/obj/Debug/netcoreapp3.1/det.AssemblyInfo.cs
+/mnt/c/Users/simo3/Projects/det/bin/Debug/netcoreapp3.1/det
+/mnt/c/Users/simo3/Projects/det/bin/Debug/netcoreapp3.1/det.deps.json
+/mnt/c/Users/simo3/Projects/det/bin/Debug/netcoreapp3.1/det.runtimeconfig.json
+/mnt/c/Users/simo3/Projects/det/bin/Debug/netcoreapp3.1/det.runtimeconfig.dev.json
+/mnt/c/Users/simo3/Projects/det/bin/Debug/netcoreapp3.1/det.dll
+/mnt/c/Users/simo3/Projects/det/bin/Debug/netcoreapp3.1/det.pdb
+/mnt/c/Users/simo3/Projects/det/obj/Debug/netcoreapp3.1/det.dll
+/mnt/c/Users/simo3/Projects/det/obj/Debug/netcoreapp3.1/det.pdb
+/mnt/c/Users/simo3/Projects/det/obj/Debug/netcoreapp3.1/det.genruntimeconfig.cache
