@@ -1,0 +1,10 @@
+C:\Users\simo3\source\repos\Polygon-12V-23\bin\Debug\Polygon-12V-23.exe.config
+C:\Users\simo3\source\repos\Polygon-12V-23\bin\Debug\Polygon-12V-23.exe
+C:\Users\simo3\source\repos\Polygon-12V-23\bin\Debug\Polygon-12V-23.pdb
+C:\Users\simo3\source\repos\Polygon-12V-23\obj\Debug\Polygon-12V-23.csprojAssemblyReference.cache
+C:\Users\simo3\source\repos\Polygon-12V-23\obj\Debug\Polygon_12V_23.Form1.resources
+C:\Users\simo3\source\repos\Polygon-12V-23\obj\Debug\Polygon_12V_23.Properties.Resources.resources
+C:\Users\simo3\source\repos\Polygon-12V-23\obj\Debug\Polygon-12V-23.csproj.GenerateResource.cache
+C:\Users\simo3\source\repos\Polygon-12V-23\obj\Debug\Polygon-12V-23.csproj.CoreCompileInputs.cache
+C:\Users\simo3\source\repos\Polygon-12V-23\obj\Debug\Polygon-12V-23.exe
+C:\Users\simo3\source\repos\Polygon-12V-23\obj\Debug\Polygon-12V-23.pdb
