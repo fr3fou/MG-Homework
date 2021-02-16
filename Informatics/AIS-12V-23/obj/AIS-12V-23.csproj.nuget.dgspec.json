@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\tmp\\AIS-12V-23\\AIS-12V-23.csproj": {}
+    "C:\\Users\\simo3\\Projects\\mg-homework\\Informatics\\AIS-12V-23\\AIS-12V-23.csproj": {}
   },
   "projects": {
-    "H:\\tmp\\AIS-12V-23\\AIS-12V-23.csproj": {
+    "C:\\Users\\simo3\\Projects\\mg-homework\\Informatics\\AIS-12V-23\\AIS-12V-23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\tmp\\AIS-12V-23\\AIS-12V-23.csproj",
+        "projectUniqueName": "C:\\Users\\simo3\\Projects\\mg-homework\\Informatics\\AIS-12V-23\\AIS-12V-23.csproj",
         "projectName": "AIS-12V-23",
-        "projectPath": "H:\\tmp\\AIS-12V-23\\AIS-12V-23.csproj",
+        "projectPath": "C:\\Users\\simo3\\Projects\\mg-homework\\Informatics\\AIS-12V-23\\AIS-12V-23.csproj",
         "packagesPath": "C:\\Users\\simo3\\.nuget\\packages\\",
-        "outputPath": "H:\\tmp\\AIS-12V-23\\obj\\",
+        "outputPath": "C:\\Users\\simo3\\Projects\\mg-homework\\Informatics\\AIS-12V-23\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\simo3\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -214,7 +214,7 @@ namespace AIS_12V_23
         }
         private static void DeleteRepair()
         {
-            srv.DeleteCustomer(PromptString("Id"));
+            srv.DeleteRepair(PromptString("Id"));
         }
 
         private static void SetRepairStatus()

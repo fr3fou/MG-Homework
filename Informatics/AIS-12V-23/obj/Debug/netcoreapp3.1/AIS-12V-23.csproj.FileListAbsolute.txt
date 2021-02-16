@@ -24,3 +24,16 @@ H:\tmp\AIS-12V-23\obj\Debug\netcoreapp3.1\AIS-12V-23.csproj.CoreCompileInputs.ca
 H:\tmp\AIS-12V-23\obj\Debug\netcoreapp3.1\AIS-12V-23.dll
 H:\tmp\AIS-12V-23\obj\Debug\netcoreapp3.1\AIS-12V-23.pdb
 H:\tmp\AIS-12V-23\obj\Debug\netcoreapp3.1\AIS-12V-23.genruntimeconfig.cache
+C:\Users\simo3\Projects\mg-homework\Informatics\AIS-12V-23\bin\Debug\netcoreapp3.1\AIS-12V-23.exe
+C:\Users\simo3\Projects\mg-homework\Informatics\AIS-12V-23\bin\Debug\netcoreapp3.1\AIS-12V-23.deps.json
+C:\Users\simo3\Projects\mg-homework\Informatics\AIS-12V-23\bin\Debug\netcoreapp3.1\AIS-12V-23.runtimeconfig.json
+C:\Users\simo3\Projects\mg-homework\Informatics\AIS-12V-23\bin\Debug\netcoreapp3.1\AIS-12V-23.runtimeconfig.dev.json
+C:\Users\simo3\Projects\mg-homework\Informatics\AIS-12V-23\bin\Debug\netcoreapp3.1\AIS-12V-23.dll
+C:\Users\simo3\Projects\mg-homework\Informatics\AIS-12V-23\bin\Debug\netcoreapp3.1\AIS-12V-23.pdb
+C:\Users\simo3\Projects\mg-homework\Informatics\AIS-12V-23\obj\Debug\netcoreapp3.1\AIS-12V-23.csprojAssemblyReference.cache
+C:\Users\simo3\Projects\mg-homework\Informatics\AIS-12V-23\obj\Debug\netcoreapp3.1\AIS-12V-23.AssemblyInfoInputs.cache
+C:\Users\simo3\Projects\mg-homework\Informatics\AIS-12V-23\obj\Debug\netcoreapp3.1\AIS-12V-23.AssemblyInfo.cs
+C:\Users\simo3\Projects\mg-homework\Informatics\AIS-12V-23\obj\Debug\netcoreapp3.1\AIS-12V-23.csproj.CoreCompileInputs.cache
+C:\Users\simo3\Projects\mg-homework\Informatics\AIS-12V-23\obj\Debug\netcoreapp3.1\AIS-12V-23.dll
+C:\Users\simo3\Projects\mg-homework\Informatics\AIS-12V-23\obj\Debug\netcoreapp3.1\AIS-12V-23.pdb
+C:\Users\simo3\Projects\mg-homework\Informatics\AIS-12V-23\obj\Debug\netcoreapp3.1\AIS-12V-23.genruntimeconfig.cache
