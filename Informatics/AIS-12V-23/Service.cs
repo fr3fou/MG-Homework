@@ -63,9 +63,9 @@ namespace AIS_12V_23
                 sw.WriteLine("Average Price for Repair:");
                 sw.WriteLine($"     {Repairs.Average(v => v.Value.Price):F2}");
                 sw.WriteLine("Most Expensive Repair:");
-                sw.WriteLine($"     {SortedRepairs.First()}");
+                sw.WriteLine($"     {SortedRepairs.Where(v => v.Finished).First()}");
                 sw.WriteLine("Oldest Repair:");
-                sw.WriteLine($"     {Repairs.OrderByDescending(v => v.Value.Sent).Select(v => v.Value).First()}");
+                sw.WriteLine($"     {Repairs.OrderBy(v => v.Value.Sent).Select(v => v.Value).First()}");
             }
 
             return sw.ToString();

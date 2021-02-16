@@ -68,9 +68,33 @@
       "Finished": false,
       "Received": false,
       "Price": 49
+    },
+    "1027": {
+      "Id": "1027",
+      "DeviceId": "eacf",
+      "CustomerId": "68ac",
+      "MechanicId": "d0b8",
+      "Description": "it keeps crashing",
+      "Damage": 3,
+      "Sent": "2021-02-16T22:43:51.0219839+02:00",
+      "Finished": true,
+      "Received": true,
+      "Price": 699
     }
   },
   "SortedRepairs": [
+    {
+      "Id": "1027",
+      "DeviceId": "eacf",
+      "CustomerId": "68ac",
+      "MechanicId": "d0b8",
+      "Description": "it keeps crashing",
+      "Damage": 3,
+      "Sent": "2021-02-16T22:43:51.0219839+02:00",
+      "Finished": true,
+      "Received": true,
+      "Price": 699
+    },
     {
       "Id": "dd5c",
       "DeviceId": "670f",
