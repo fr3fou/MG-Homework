@@ -1,0 +1,99 @@
+{
+  "Customers": {
+    "a121": {
+      "Id": "a121",
+      "Name": "Georgi Petrov",
+      "Age": 18,
+      "PhoneNumber": "\u002B35911223344"
+    },
+    "68ac": {
+      "Id": "68ac",
+      "Name": "Ivailo Ivanov",
+      "Age": 41,
+      "PhoneNumber": "\u002B4244009988"
+    }
+  },
+  "Mechanics": {
+    "f4a7": {
+      "Id": "f4a7",
+      "Name": "Bash Maistora",
+      "Age": 75,
+      "PhoneNumber": "\u002B34433334455"
+    },
+    "d0b8": {
+      "Id": "d0b8",
+      "Name": "Bogdan",
+      "Age": 23,
+      "PhoneNumber": "\u002B232343534"
+    }
+  },
+  "Devices": {
+    "670f": {
+      "Id": "670f",
+      "Make": "Apple",
+      "Model": "iPhone 5S"
+    },
+    "dd96": {
+      "Id": "dd96",
+      "Make": "Samsung",
+      "Model": "S11"
+    },
+    "eacf": {
+      "Id": "eacf",
+      "Make": "Nokia",
+      "Model": "S310"
+    }
+  },
+  "Repairs": {
+    "dd5c": {
+      "Id": "dd5c",
+      "DeviceId": "670f",
+      "CustomerId": "a121",
+      "MechanicId": "d0b8",
+      "Description": "I dropped it",
+      "Damage": 2,
+      "Sent": "2021-02-16T22:06:10.0374172+02:00",
+      "Finished": true,
+      "Received": true,
+      "Price": 599
+    },
+    "5416": {
+      "Id": "5416",
+      "DeviceId": "dd96",
+      "CustomerId": "68ac",
+      "MechanicId": "f4a7",
+      "Description": "it stopped working",
+      "Damage": 1,
+      "Sent": "2021-02-16T22:09:53.6783539+02:00",
+      "Finished": false,
+      "Received": false,
+      "Price": 49
+    }
+  },
+  "SortedRepairs": [
+    {
+      "Id": "dd5c",
+      "DeviceId": "670f",
+      "CustomerId": "a121",
+      "MechanicId": "d0b8",
+      "Description": "I dropped it",
+      "Damage": 2,
+      "Sent": "2021-02-16T22:06:10.0374172+02:00",
+      "Finished": true,
+      "Received": true,
+      "Price": 599
+    },
+    {
+      "Id": "5416",
+      "DeviceId": "dd96",
+      "CustomerId": "68ac",
+      "MechanicId": "f4a7",
+      "Description": "it stopped working",
+      "Damage": 1,
+      "Sent": "2021-02-16T22:09:53.6783539+02:00",
+      "Finished": false,
+      "Received": false,
+      "Price": 49
+    }
+  ]
+}
