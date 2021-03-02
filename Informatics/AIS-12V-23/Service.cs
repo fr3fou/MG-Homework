@@ -179,7 +179,6 @@ namespace AIS_12V_23
             Repairs[id].Price = price;
             Repairs[id].Damage = damage;
             Repairs[id].Description = description;
-
             return Repairs[id];
         }
 
